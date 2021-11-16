@@ -37,6 +37,16 @@ Sriram Viswanathan
 
 ---
 
+### Domain Name System (DNS) - Server Types
+
+* Authoritative-Only DNS Servers
+
+* Caching and Forwarding DNS Servers
+
+* DNS `start of authority` (**SOA**) - defined in `zone file` - decides TTL of records
+
+---
+
 ### Autonomous System (AS)
 
 * Big networks that make up the Internet
