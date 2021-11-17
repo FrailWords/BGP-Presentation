@@ -53,7 +53,7 @@ Sriram Viswanathan
 * One network or multiple networks (CIDRs) - address blocks
 * ASes do not like to be alone - connect to several other ASes
 
-<img data-src="https://github.com/FrailWords/BGP-Presentation/blob/master/images/as.png" width="400" height="300">
+<img data-src="images/as.png" width="400" height="300">
 
 ---
 
